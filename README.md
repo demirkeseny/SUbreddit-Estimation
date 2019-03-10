@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Which subreddit does the post belong?
 
-### Description
+### Description 
 
 In this project, I try to estimate which subreddit does the post belong knowing the post body or the title. 
 
